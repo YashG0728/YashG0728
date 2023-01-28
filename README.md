@@ -19,5 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashG0728&show_icons=true&locale=en&layout=compact" alt="YashG0728" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashG0728&show_icons=true&locale=en" alt="YashG0728" /></p>
+
 <img align="right" alt="coding" width="350" height="200" src="https://thumbs.gfycat.com/AbandonedFocusedGiantschnauzer-size_restricted.gif">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashG0728&" alt="YashG0728" /></p>
