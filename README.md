@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Gharde</h1>
 
-<img align="right" alt="coding" width="450" height="300" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="490" height="300" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashG0728&label=Profile%20views&color=0e75b6&style=flat" alt="YashG0728" /> </p>
 
